@@ -1,1 +1,1 @@
-im just a dumb project with a cool name
+I'm learning CSS, HTML, JS, and I like to fork people's stuff and mess around with it
